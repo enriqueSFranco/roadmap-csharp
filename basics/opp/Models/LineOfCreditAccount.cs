@@ -1,6 +1,6 @@
-namespace Basics.OOP
+namespace RoadmapCsharp.Basics.OOP.Models
 {
-  public class LineOfCreditAccount
+  public class LineOfCreditAccount: BankAccount
   {
     private decimal _creditLimit;
 

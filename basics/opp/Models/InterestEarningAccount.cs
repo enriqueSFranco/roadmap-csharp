@@ -1,4 +1,4 @@
-namespace Basics.OOP
+namespace RoadmapCsharp.Basics.OOP.Models
 {
   public class InterestEarningAccoung : BankAccount
   {

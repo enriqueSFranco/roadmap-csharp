@@ -1,6 +1,6 @@
-namespace Basics.OOP
+namespace RoadmapCsharp.Basics.OOP.Models
 {
-  public class GiftCardAccount
+  public class GiftCardAccount: BankAccount
   {
     private readonly decimal _monthlyDeposit = 0m;
     public GiftCardAccount(string name, decimal initialBalance, decimal monthlyDeposit = 0) : base(name, initialDecimal)
